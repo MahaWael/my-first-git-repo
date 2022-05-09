@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class ThirsJavaClass {
+public class ThirdJavaClass {
+    //This will also have some java code
 }
