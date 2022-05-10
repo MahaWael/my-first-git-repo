@@ -1,4 +1,8 @@
 This is my local file
 Remote code
+
 local code not remote!
 why i can't see conflict?
+Remote code not local
+why it does not work??
+
